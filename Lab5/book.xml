@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type = "text/xsl" href = "book.xsl" ?>
+<Book>
+    <ISBN>101-45979-9-98</ISBN>
+    <Title>David's XML Bible</Title>
+    <Author>
+        <FirstName>Nguyen</FirstName>
+        <LastName>Duc Tam</LastName>
+    </Author>
+    <Chapters>
+        <Preface>
+            <Name>Welcome</Name>
+            <Number>1</Number>
+            <Pages>2</Pages>
+        </Preface>
+        <Chapter>
+            <Name>Working with XSLT</Name>
+            <Numbers>3</Numbers>
+            <Pages>40</Pages>
+        </Chapter>
+        <Chapter>
+            <Name>Sorting in XSLT</Name>
+            <Numbers>4</Numbers>
+            <Pages>4</Pages>
+        </Chapter>
+        <Chapter>
+            <Name>More on XSLT</Name>
+            <Numbers>2</Numbers>
+            <Pages>50</Pages>
+        </Chapter>
+        <Chapter>
+            <Name>XPath in XSL</Name>
+            <Numbers>5</Numbers>
+            <Pages>10</Pages>
+        </Chapter>
+        <Chapter>
+            <Name>XSL - Formatting Objects</Name>
+            <Numbers>1</Numbers>
+            <Pages>25</Pages>
+        </Chapter>
+    </Chapters>
+</Book>
+
